@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Juanma Quintero</h1>
+<h1 align="center">Hola 👋, Me llamo Juanma Quintero</h1>
 <h3 align="center">Estudiante de desarrolo de aplicaciones multiplataforma</h3>
 
 <h3 align="left">Gym Chat</h3>
