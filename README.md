@@ -4,17 +4,17 @@
 <h3 align="center">Soy estudiante de desarrolo de aplicaciones multiplataforma y estas son mis aplicaciones</h3>
 
 <h3 align="left">GymChat</h3>
-<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/ic_launcher-playstore.png" width="250" height="250"/>
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/ic_launcher-playstore.png" width="200" height="200"/>
 <p>Chat mediante firebase para aquellos amantes del gimnasio</p>
 <p>Link:</p>
 
 <h3>ToDoApp</h3>
-<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo2.jpg" width="250" height="250"/>
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo2.jpg" width="200" height="200"/>
 <p>Aplicación para anotar tus tareas pendientes, puedes editarlas y eliminarlas una vez las acabes</p>
 <p>Link:</p>
 
 <h3>WeatherApp</h3>
-<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo.jpg" width="250" height="250"/>
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo.jpg" width="200" height="200"/>
 <p>Aplicación del clima, pones el nombre de la ciudad que quiras y podrás ver el clima actual y una predicción de 3 días</p>
 <p>Link:</p>
 
