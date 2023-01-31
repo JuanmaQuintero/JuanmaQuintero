@@ -4,9 +4,9 @@
 <h3 align="center">Estudiante de desarrolo de aplicaciones multiplataforma</h3>
 
 <h3 align="left">GymChat</h3>
-![foto](https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/goku.png)
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/goku.png" width="250" height="250"/>
 <p>Chat mediante firebase para aquellos amantes del gimnasio</p>
-<p>Link:</p>
+<p>Link: https://play.google.com/store/apps/details?id=org.inspaixcamp.sonidosdememes&hl=es_419&gl=US</p>
 
 <h3>ToDoApp<h3>
 
