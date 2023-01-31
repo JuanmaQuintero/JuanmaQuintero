@@ -4,7 +4,7 @@
 <h3 align="center">Estudiante de desarrolo de aplicaciones multiplataforma</h3>
 
 <h3 align="left">GymChat</h3>
-https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/goku.png
+<img src"https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/goku.png">
 <p>Chat mediante firebase para aquellos amantes del gimnasio</p>
 <p>Link:</p>
 
