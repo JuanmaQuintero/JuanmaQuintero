@@ -1,7 +1,7 @@
-### Hi there 👋
+### Wenas 👋
 
-<h1 align="center">Hola 👋, Me llamo Juanma Quintero</h1>
-<h3 align="center">Estudiante de desarrolo de aplicaciones multiplataforma</h3>
+<h1 align="center">Bienvenido a mi perfil, Me llamo Juanma Quintero</h1>
+<h3 align="center">Soy estudiante de desarrolo de aplicaciones multiplataforma y estas son mis aplicaciones</h3>
 
 <h3 align="left">GymChat</h3>
 <img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/ic_launcher-playstore.png" width="250" height="250"/>
