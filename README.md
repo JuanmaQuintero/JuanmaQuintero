@@ -14,17 +14,17 @@
 <p>Link:</p>
 
 <h3>WeatherApp</h3>
-<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo.jpg" width="200" height="200"/>
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo3.jpg" width="200" height="200"/>
 <p>Aplicación del clima, pones el nombre de la ciudad que quiras y podrás ver el clima actual y una predicción de 3 días</p>
 <p>Link:</p>
 
 <h3>Sonidos de Memes</h3>
-<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo.jpg" width="200" height="200"/>
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/goku.png" width="200" height="200"/>
 <p>Aplicación del clima, pones el nombre de la ciudad que quiras y podrás ver el clima actual y una predicción de 3 días</p>
 <p>Link:</p>
 
 <h3>Valorant Characters</h3>
-<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo4.jpg" width="200" height="200"/>
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo.jpg" width="200" height="200"/>
 <p>Aplicación del clima, pones el nombre de la ciudad que quiras y podrás ver el clima actual y una predicción de 3 días</p>
 <p>Link:</p>
 
