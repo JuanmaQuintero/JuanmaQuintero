@@ -4,7 +4,7 @@
 <h3 align="center">Estudiante de desarrolo de aplicaciones multiplataforma</h3>
 
 <h3 align="left">GymChat</h3>
-
+<img src="C:\Users\juuzo\Desktop\Insti\M7\Activitats\Mondongo">
 <p>Chat mediante firebase para aquellos amantes del gimnasio</p>
 <p>Link:</p>
 
