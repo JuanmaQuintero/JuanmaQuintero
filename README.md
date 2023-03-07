@@ -34,6 +34,7 @@
 <p>Link: https://play.google.com/store/apps/details?id=com.insbaixcamp.coloringbook&hl=es_419&gl=US</p>
 
 <h3>Scanner Product</h3>
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo.jpg" width="200" height="200"/>
 <p>Escáner para consultar los alergenos y trazas del producto que quieras</p>
 <p>Link: https://play.google.com/store/apps/details?id=org.inspaixcamp.myproductscanner&hl=es_419&gl=US</p>
 
