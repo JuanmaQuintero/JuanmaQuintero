@@ -24,7 +24,7 @@
 <p>Link: https://play.google.com/store/apps/details?id=org.inspaixcamp.sonidosdememes&hl=es_419&gl=US</p>
 
 <h3>Valorant Characters</h3>
-<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo.jpg" width="200" height="200"/>
+<img src="https://github.com/JuanmaQuintero/JuanmaQuintero/blob/main/logo4.jpg" width="200" height="200"/>
 <p>Aplicación del clima, pones el nombre de la ciudad que quiras y podrás ver el clima actual y una predicción de 3 días</p>
 <p>Link: https://play.google.com/store/apps/details?id=org.inspaixcamp.foodrecyclerview&hl=es_419&gl=US</p>
 
